@@ -1,8 +1,8 @@
 # Site settings
 title: Travorama
-email: mohamed.zarrouk@ext.daint-gobain.com
-description: Travorma Static Front.
-baseurl: "/fr
+email: mohamed.zarrouk@ext.saint-gobain.com
+description: Front end for Travorama.
+baseurl: "/frontorama"
 url: ""
 twitter_username: 
 avatar: "" # Set footer avatar
@@ -19,7 +19,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "Zarrouk Mohamed" # Set default author name
+      author: "My Author" # Set default author name
       categories: "travaux"
       layout: "post"
       comments: true
