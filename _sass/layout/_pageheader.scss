@@ -1,5 +1,7 @@
 
 .container {
+  @extend %clearfix;
+  @include mq(medium)  {
       display: block;
       max-width: 768px;
       padding: 2rem 2rem 10rem 2rem;
@@ -9,11 +11,10 @@
       @media (max-width: 568px) {
           min-width: 100%;
       }
-      
       .header , article {
           margin: 0rem 0rem 2rem 0rem;
           background: White;
           border-radius: 4rem;
-      }
-      
-}
+      }      
+  }
+}      
