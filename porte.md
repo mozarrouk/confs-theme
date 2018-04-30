@@ -7,7 +7,7 @@ On l’utilise souvent sans s’en rendre compte, et pourtant, elle exerce une f
 
 Vous trouverez ci-dessous tous les trucs et astuces ainsi que nos conseil pour bien choisir sa porte d'entrée adaptée à ses besoins.
 
-## Checklist des points à vérifier avant de poser sa porte d'entrée
+## Checklist des points à vérifier avant de poser sa porte d'entrée
 
 Beaucoup de questions sont à répondre quand on fait poser une nouvelle porte d'entrée :
 1. L’esthétique
