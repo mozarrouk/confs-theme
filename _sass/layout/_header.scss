@@ -11,12 +11,17 @@
     background: DarkOrange;
     background: linear-gradient(to right top, Orange, OrangeRed);
     color: White;
+    padding: 15px 0px 1px 28px;
     
     h1 {
       margin: 0;
       padding: 0;
       font-size: 3rem;
       font-family: 'Carter One', cursive;
+      color: white;
+      line-height: 1.2;
+      letter-spacing: -.1rem;
+      font-weight: 300;
     }
     
     h2 {
@@ -24,6 +29,7 @@
       padding: 0;
       font-family: 'Montserrat', sans-serif;
       font-size: 1.5rem;
+      color: white;
     }
     
   }
