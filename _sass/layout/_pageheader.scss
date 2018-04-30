@@ -8,5 +8,12 @@
       } 
       @media (max-width: 568px) {
           min-width: 100%;
-      }   
+      }
+      
+      .header , article {
+          margin: 0rem 0rem 2rem 0rem;
+          background: White;
+          border-radius: 4rem;
+      }
+      
 }
