@@ -5,7 +5,26 @@
 .main-header {
   @extend %clearfix;
   @include mq(medium)  {
-    height: 48px;
-    background: palette(grey, lightest);
+    height: 7rem;
+    padding: 1.5rem 3rem;
+    clip-path: polygon(0 0, 100% 0, 100% 66%, 0 100%);
+    background: DarkOrange;
+    background: linear-gradient(to right top, Orange, OrangeRed);
+    color: White;
+    
+    h1 {
+      margin: 0;
+      padding: 0;
+      font-size: 3rem;
+      font-family: 'Carter One', cursive;
+    }
+    
+    h2 {
+      margin: 0;
+      padding: 0;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 1.5rem;
+    }
+    
   }
 }
