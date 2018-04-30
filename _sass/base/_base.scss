@@ -8,13 +8,13 @@
 }
 
 body {
-	color: palette(grey);
   font-size: $base__font-size;
   font-family: $font-family--primary;
-  line-height: ($base__line/$base__font-size);
+  #line-height: ($base__line/$base__font-size);
   background-size: 100%;
   background: url(https://travorama.fr/static/landings/cloture.jpg) no-repeat center fixed;
-
+  margin:0;
+  padding:0;
 }
 
 // Text
