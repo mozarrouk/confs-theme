@@ -4,7 +4,7 @@ description: Pose ou remplacement de porte d'entrée
 permalink: /porte/
 ---
 
-<dl>
+<dl style="color:red;">
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
 
