@@ -1,5 +1,5 @@
 ---
-title: Porte
+title: Porte d'entrée
 permalink: /porte/
 ---
 
