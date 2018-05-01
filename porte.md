@@ -5,7 +5,7 @@ permalink: /porte/
 ---
 
 <dl style="color:red;">
-  <dt>Definition list</dt>
+  <dt style="color:red;">Definition list</dt>
   <dd>Is something people use sometimes.</dd>
 
   <dt>Markdown in HTML</dt>
