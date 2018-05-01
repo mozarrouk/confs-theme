@@ -4,6 +4,17 @@ description: Pose ou remplacement de porte d'entrée
 permalink: /porte/
 ---
 
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+
+
+
 On l’utilise souvent sans s’en rendre compte, et pourtant, elle exerce une fonction importante dans le logement. De la protection contre les infractions, à l’isolation thermique, en passant par une fonction décorative : vous l’avez bien compris, il s’agit de la porte d'entrée !
 
 Vous trouverez ci-dessous tous les trucs et astuces ainsi que nos conseil pour bien choisir sa porte d'entrée adaptée à ses besoins.
