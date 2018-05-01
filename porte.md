@@ -1,6 +1,6 @@
 ---
 title: Porte d'entrée
-description: Pose ou remplacement de porte d'entréesdhljsd
+description: Pose ou remplacement de porte d'entrée
 permalink: /porte/
 ---
 
