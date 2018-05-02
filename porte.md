@@ -1,6 +1,7 @@
 ---
 title: Porte d'entrée
 description: Pose ou remplacement de porte d'entrée
+image: porte.jpg
 permalink: /porte/
 ---
 
