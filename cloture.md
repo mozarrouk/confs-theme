@@ -1,5 +1,5 @@
 ---
-title: Cloture
+title: Clôture
 description: Pose, remplacement ou extension de clôture
 image: cloture.jpg
 permalink: /cloture/
