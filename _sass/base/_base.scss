@@ -16,45 +16,7 @@ body {
   padding:0;
 }
 
-// Text
 
-h1 {
-	@extend %hdln-prim;
-}
-
-h2 {
-	@extend %hdln-sec;
-}
-
-h3 {
-	font-size: em(18px);
-}
-
-h4 {
-	@include mq(medium) {
-		margin-top: em(42px);
-	}
-	margin-top: em(22px);
-	margin-bottom: em(36px, 14px);
-	color: palette(grey, x-light);
-	text-transform: uppercase;
-	letter-spacing: $letter-space;
-	font-weight: $font-weight--medium;
-	font-size: em(14px);
-}
-
-a {
-	color: $color-primary; 
-	text-decoration: none;
-	font-weight: $font-weight--medium;
-}
-
-p {
-	margin: 0 0 em(30px, 18px);
-	font-weight: $font-weight--light;
-	font-size: em(18px);
-	line-height: (27px/18px);
-}
 
 blockquote {
 	@include mq(medium) {
