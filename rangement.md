@@ -4,7 +4,7 @@ description: Aménagement de rangements intérieurs
 image: rangement.jpg
 permalink: /rangement/
 ---
-Vous manquez de rangements dans votre appartement ? Vous vous demandez comment vous allez faire pour ranger toutes vos chaussures et vêtements dans votre chambre ? Il est grand temps de songer à installer un placard. Oui mais comment choisir le bon placard ? Autant de questions que nous allons essayer de répondre pour vous aider dans votre projet de pose de placard.
+Vousssdsd manquez de rangements dans votre appartement ? Vous vous demandez comment vous allez faire pour ranger toutes vos chaussures et vêtements dans votre chambre ? Il est grand temps de songer à installer un placard. Oui mais comment choisir le bon placard ? Autant de questions que nous allons essayer de répondre pour vous aider dans votre projet de pose de placard.
 
 ## Quel type de placard faut-il installer ?
 
