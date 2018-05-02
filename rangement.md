@@ -33,3 +33,5 @@ Le coût de la pose dépend de beaucoup de paramètres : difficulté du chantier
 Assurez-vous que la fourniture du matériel et la TVA soient bien pris en compte dans le devis. Le coût du chantier peut varier selon les devis proposés par les professionnels du bâtiment, nous vous invitons fortement à demander plusieurs devis afin de comparer les différentes propositions.
 
 Avec toutes ces infos, vous êtes maintenant capable de trouver le bon pro pour vos travaux : il saura répondre parfaitement à vos besoins de pose de placard au meilleur prix.
+
+[>> TEXT HERE <<]
