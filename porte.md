@@ -48,14 +48,14 @@ Attention toutefois lors d’une rénovation à bien vérifier les gonds. Si vou
 
 Faites appel à un bon artisan compétent pour ces travaux d’installation de porte d'entrée.
 
-## Comparez les devis de pose de porte d'entée</h2>
+## Comparez les devis de pose de porte d'entée
 
 ### Combien coute la pose d’une porte d'entrée ?
 
 Le coût du remplacement dépend de beaucoup de paramètres : difficulté du chantier, la durée, le type de porte souhaité (matériau) ainsi que la région dans laquelle se situe le chantier. Si certains sites proposent des devis en ligne gratuits, mieux vaut faire appel à un professionnel du bâtiment qualifié.
 Il saura mieux répondre à vos besoins.
 
-### Que faut-il vérifier sur un devis de pose de porte d'entrée ?</h3>
+### Que faut-il vérifier sur un devis de pose de porte d'entrée ?
 
 Assurez-vous que les informations suivantes soient bien présentes :
 1. Le Pro soit RGE
