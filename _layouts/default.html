@@ -12,35 +12,12 @@
       angular.module('myModule', ['schemaForm'])
        .controller('FormController', function($scope) {
            $scope.schema = {
-             type: "object",
-             properties: {
-               "Eau potablpotxxxablee": {
-                  "title": "Eau potable",
-                  "type": "boolean",
-                  "name": "category",
-                  htmlClass: "row",
-                  fieldHtmlClass: "radio six columns",
-                  labelHtmlClass: "label-body",
-                  description: "Street name",
-                  placeholder: "Input...",
-                  
-                },
-                "Gaz": {
-                  "title": "Gaz",
-                  "type": "boolean"
-                },
-                "Électricité": {
-                  "title": "Électricité",
-                  "type": "boolean"
-                },
-                "Égouts": {
-                  "title": "Égouts",
-                  "type": "boolean"
-                },
-                "Téléphone": {
-                  "title": "Téléphone",
-                  "type": "boolean"
-                },
+             {
+                 type: "section",
+                 items: [
+                   "name",
+                   { key: "surname", notitle: true }
+                 ]
              }
            };
 
