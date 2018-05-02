@@ -2,14 +2,15 @@
 .container {
       display: block;
       max-width: 768px !important;
-      padding: 2rem 2rem 10rem 2rem !important; 
+      padding: 2rem 2rem 10rem 2rem !important;
+      font-family: 'Open Sans',sans-serif !important;
       @media (max-width: 1280px) {
           max-width: 640px;  
       } 
       @media (max-width: 568px) {
           min-width: 100%;
       }
-      header, article {
+      header {
           margin: 0rem 0rem 2rem 0rem;
           background: White;
           border-radius: 4rem;
@@ -58,6 +59,21 @@
                 
           }
       }
+      
+      article {
+          header {
+          margin: 0rem 0rem 2rem 0rem;
+          background: White;
+          border-radius: 4rem;
+          padding: 1rem 5rem 3rem 5rem;
+          text-align: center;
+          p {
+              margin-bottom: 2.5rem;
+              font-size: 1.5em;
+              line-height: 1.6;
+              font-weight: 400;
+          }      
+      }          
       
       
 }      
