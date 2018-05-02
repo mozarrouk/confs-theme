@@ -34,4 +34,4 @@ Assurez-vous que la fourniture du matériel et la TVA soient bien pris en compte
 
 Avec toutes ces infos, vous êtes maintenant capable de trouver le bon pro pour vos travaux : il saura répondre parfaitement à vos besoins de pose de placard au meilleur prix.
 
-[>> TEXT HERE <<]
+name = ________
