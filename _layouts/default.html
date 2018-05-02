@@ -14,11 +14,22 @@
            $scope.schema = {
              type: "object",
              properties: {
-               name: { type: "string", minLength: 2, title: "Name", description: "Name or alias" },
-               title: {
-                 type: "string",
-                 enum: ['dr','jr','sir','mrs','mr','NaN','dj']
-               }
+               "name": {
+                  "title": "Name",
+                  "type": "string"
+                },
+                "email": {
+                  "title": "Email",
+                  "type": "string",
+                  "pattern": "^\\S+@\\S+$",
+                  "description": "Email will be used for evil."
+                },
+                "comment": {
+                  "title": "Comment",
+                  "type": "string",
+                  "maxLength": 20,
+                  "validationMessage": "Don't be greedy!"
+                }
              }
            };
 
