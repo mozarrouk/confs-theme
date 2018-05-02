@@ -5,7 +5,6 @@ image: porte.jpg
 permalink: /porte/
 ---
 
-<article>
 On l’utilise souvent sans s’en rendre compte, et pourtant, elle exerce une fonction importante dans le logement. De la protection contre les infractions, à l’isolation thermique, en passant par une fonction décorative : vous l’avez bien compris, il s’agit de la porte d'entrée !
 
 Vous trouverez ci-dessous tous les trucs et astuces ainsi que nos conseil pour bien choisir sa porte d'entrée adaptée à ses besoins.
@@ -64,6 +63,4 @@ Assurez-vous que les informations suivantes soient bien présentes :
 3. La fourniture du matériel et la TVA soient bien pris en compte dans le devis
 
 Avec toutes ces infos, vous êtes maintenant capable de trouver le bon pro pour vos travaux : il saura répondre parfaitement à vos besoins de pose de porte d'entrée au meilleur prix.
-
-</article>
 
