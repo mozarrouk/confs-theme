@@ -61,7 +61,6 @@
       }
       
       article {
-          margin-top: 10rem;  
           background: White;
           border-radius: 4rem;
           padding: 5rem;
@@ -89,7 +88,13 @@
           ol {
               list-style: circle inside;
           }
-      }          
+      }
+      #contents {
+          margin-top: 10rem;
+      }
+      #form {
+          min-height: 510px;
+      }
       
       
 }      
