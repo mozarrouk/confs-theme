@@ -14,22 +14,26 @@
            $scope.schema = {
              type: "object",
              properties: {
-               "name": {
-                  "title": "Name",
-                  "type": "string"
+               "Eau potable": {
+                  "title": "Eau potable",
+                  "type": "boolean"
                 },
-                "email": {
-                  "title": "Email",
-                  "type": "string",
-                  "pattern": "^\\S+@\\S+$",
-                  "description": "Email will be used for evil."
+                "Gaz": {
+                  "title": "Gaz",
+                  "type": "boolean"
                 },
-                "comment": {
-                  "title": "Comment",
-                  "type": "string",
-                  "maxLength": 20,
-                  "validationMessage": "Don't be greedy!"
-                }
+                "Électricité": {
+                  "title": "Électricité",
+                  "type": "boolean"
+                },
+                "Égouts": {
+                  "title": "Égouts",
+                  "type": "boolean"
+                },
+                "Téléphone": {
+                  "title": "Téléphone",
+                  "type": "boolean"
+                },
              }
            };
 
